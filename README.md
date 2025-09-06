@@ -1,4 +1,3 @@
-```markdown
 # Podcast: Explorando a Inteligência Artificial em menos de 1 minutos
 
 ## 📒 Descrição
@@ -17,4 +16,4 @@ O episódio é uma introdução leve e estimulante ao mundo da Inteligência Art
 [LINK PARA O PODCAST AQUI](https://drive.google.com/file/d/1F3qC7qTwwHJPPOeWbffW5QAIYhYI8TMN/view?usp=drive_link)
 
 ## 💭 Reflexão
-É incrível como a qualidade da voz sintética está cada vez mais próxima da voz real. Isso pode ser um ponto positivo em diversas aplicações, porém levanta-se a atenção para possíveis usos indevidos.```
+É incrível como a qualidade da voz sintética está cada vez mais próxima da voz real. Isso pode ser um ponto positivo em diversas aplicações, porém levanta-se a atenção para possíveis usos indevidos.
